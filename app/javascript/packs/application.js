@@ -17,3 +17,6 @@ require("channels")
 // const imagePath = (name) => images(name, true)
 //= require jquery
 //= require bootstrap-sprockets
+import 'bootstrap'
+import './src/application.scss'
+require("bootstrap/dist/js/bootstrap")
